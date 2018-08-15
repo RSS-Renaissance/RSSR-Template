@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?><opml version="1.0"><head><title>导出订阅</title></head><body><outline text="ios" title="ios" >
-<outline text="New York Times" title="New York Times" type="rss" xmlUrl="http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" htmlUrl="https://www.nytimes.com/"/></outline></body></opml>
+<outline text="New York Times" title="New York Times" type="rss" xmlUrl="http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" htmlUrl="https://www.nytimes.com/"/>
+<outline text="CNN topstories" title="CNN topstories" type="rss" xmlUrl="http://rss.cnn.com/rss/cnn_topstories.rss" htmlUrl="https://www.cnn.com/"/></outline></body></opml>
